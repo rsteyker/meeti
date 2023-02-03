@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_eventos.scss"],"sourcesContent":[".eventos{\r\n    .card{\r\n        &:hover{\r\n            cursor: pointer;\r\n        }\r\n        img{\r\n            border-radius: .5rem;\r\n        }\r\n        .fecha{\r\n            color: #877457;\r\n        }\r\n    }\r\n}"],"file":"_eventos.css"}

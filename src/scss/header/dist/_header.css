@@ -1,0 +1,11 @@
+@use '../custom' as *;
+.header {
+  padding-top: 3rem;
+  padding-top: 3rem;
+}
+
+.header .logo {
+  width: 10rem;
+}
+
+/*# sourceMappingURL=_header.css.map */

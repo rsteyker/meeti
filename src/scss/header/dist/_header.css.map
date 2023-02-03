@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_header.scss"],"sourcesContent":["@use '../custom' as *;\r\n\r\n.header{\r\n    padding-top: 3rem;\r\n    padding-top: 3rem;\r\n    .logo{\r\n        width: 10rem;\r\n    }\r\n}\r\n"],"file":"_header.css"}
